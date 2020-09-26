@@ -1,39 +1,5 @@
 [{
-		"namel": "Test Movie 2020",
-		"languagel": "Malayalam",
-		"descriptionl": "This is a test description, this movie is the latest one in malayalam and this movie was released in 2020. ",
-		"thumbnaill": "https:\/\/raw.githubusercontent.com\/irshad1998\/torrentz\/latest_movie\/hindi1.webp",
-		"durationl": "02:00:00",
-		"trailer_urll": "https:\/\/www.youtube.com\/watch?v=hPybzXeEWSI",
-		"downloadurl_1l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_1l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_1l_size": "1.74 GB",
-		"downloadurl_2l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_2l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_2l_size": "1.74 GB",
-		"downloadurl_3l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_3l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_3l_size": "1.74 GB",
-		"downloadurl_4l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_4l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_4l_size": "1.74 GB",
-		"downloadurl_5l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_5l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_5l_size": "1.74 GB",
-		"downloadurl_6l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_6l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_6l_size": "1.74 GB",
-		"downloadurl_7l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_7l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_7l_size": "1.74 GB",
-		"downloadurl_8l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_8l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_8l_size": "1.74 GB",
-		"downloadurl_9l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_9l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_9l_size": "1.74 GB",
-		"downloadurl_10l": "https:\/\/github.com\/irshad1998\/torrentz\/raw\/torrentz\/dwn.torrent",
-		"downloadurl_10l_magnet": "https:\/\/mallutorrentz.com\/test-magnet-link",
-		"downloadurl_10l_size": "1.74 GB"
-	}
-]
+
+	"thumbnaill": "https:\/\/raw.githubusercontent.com\/irshad1998\/torrentz\/latest_movie\/hindi1.webp"
+
+}]
